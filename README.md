@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating insights: since my first Excel pivot table!<br>🎯 Goals: build impactful data-driven projects<br>🚀 Superpower: finding patterns in messy datasets<br>🏫 Education: Learning SQL, Python & Statistics<br>📚 Currently: Masters of Management, Business Data Analytics<br>🧩 Interests: Machine Learning & AI ethics<br>😨 Challenged by: Feature Engineering & Model Tuning<br>🎲 Fun fact: I am an avid gamer and a football freak!
+✨ Creating insights: since my first Excel pivot table!<br>🎯 Goals: build impactful data-driven projects<br>🚀 Superpower: finding patterns in messy datasets<br>🏫 Education: Masters of Management, Business Data Analytics<br>📚 Currently: Learning SQL, Python & Statistics<br>🧩 Interests: Machine Learning & AI ethics<br>😨 Challenged by: Feature Engineering & Model Tuning<br>🎲 Fun fact: I am an avid gamer and a football freak!
 
 
 ## 🌐 Socials:
